@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# local build leftovers
+*.log
